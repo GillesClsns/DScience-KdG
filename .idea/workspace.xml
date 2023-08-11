@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27eb5f4d-366a-47f2-97e0-8688c07c2adc" name="Changes" comment="Publishing DS1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QqA0AE4qhJynRElnRPZa69zy4n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "H:/My Drive/School/2022-2023/Data-Science/Data-Science",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\Examen" />
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\W10-2023" />
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\W9-2023" />
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\W6-2023\Syllabus" />
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\W5-2023\Syllabus" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\W8-2023\Exercises\data" />
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\W10-2023" />
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\W9-2023" />
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\Examen" />
+      <recent name="H:\My Drive\School\2022-2023\Data-Science\Data-Science\W8-2023\Exercises" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27eb5f4d-366a-47f2-97e0-8688c07c2adc" name="Changes" comment="" />
+      <created>1686070512283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686070512283</updated>
+      <workItem from="1686070529189" duration="1100000" />
+      <workItem from="1686071664985" duration="3905000" />
+      <workItem from="1686123558895" duration="9062000" />
+      <workItem from="1686306706184" duration="1319000" />
+      <workItem from="1686378248921" duration="4291000" />
+      <workItem from="1686392011973" duration="4440000" />
+      <workItem from="1686834846458" duration="863000" />
+      <workItem from="1687113915769" duration="597000" />
+      <workItem from="1687165892274" duration="5399000" />
+      <workItem from="1687182417802" duration="3169000" />
+      <workItem from="1687254928920" duration="10021000" />
+      <workItem from="1687266190700" duration="568000" />
+      <workItem from="1687266778081" duration="122000" />
+      <workItem from="1687266927655" duration="94000" />
+      <workItem from="1687267116011" duration="195000" />
+      <workItem from="1687267324573" duration="329000" />
+      <workItem from="1687267667865" duration="931000" />
+      <workItem from="1687268960052" duration="805000" />
+      <workItem from="1687287707373" duration="35000" />
+      <workItem from="1687326702052" duration="1126000" />
+      <workItem from="1687338601082" duration="14257000" />
+      <workItem from="1687360906138" duration="3905000" />
+      <workItem from="1687373851956" duration="1714000" />
+      <workItem from="1687413399527" duration="3764000" />
+      <workItem from="1687425667827" duration="7072000" />
+      <workItem from="1687450599011" duration="630000" />
+      <workItem from="1691494170510" duration="72000" />
+      <workItem from="1691753825872" duration="690000" />
+      <workItem from="1691754539435" duration="70000" />
+      <workItem from="1691754632053" duration="1400000" />
+      <workItem from="1691756102250" duration="232000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1691754721923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691754721923</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Publishing DS1">
+      <created>1691754837866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691754837866</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Publishing DS1">
+      <created>1691755585824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691755585824</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Publishing DS1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Publishing DS1" />
+  </component>
+</project>
